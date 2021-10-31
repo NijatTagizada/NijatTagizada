@@ -1,5 +1,17 @@
-### Hi there 
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<h2 align="center">Hi there :metal:</h2>
+
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+
+### Contact with me                            
+
+
+
+
+<a href="https://www.linkedin.com/in/nicat-tagizada/" target="_blank"><img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin"/></a>
+
+
+
 
 ### Codewars
 <img src="https://www.codewars.com/users/Nijat%20Tagizada/badges/large"/>
