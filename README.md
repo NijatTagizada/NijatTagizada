@@ -9,4 +9,4 @@
 
 
 ### Codewars
-<img src="https://www.codewars.com/users/Nijat%20Tagizada/badges/large"/>
+<img src="https://www.codewars.com/users/Nijat%20Tagizada/badges/micro"/>
