@@ -10,3 +10,5 @@
 
 <!-- ### Codewars -->
 <!-- <img src="https://www.codewars.com/users/Nijat%20Tagizada/badges/micro"/> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NijatTagizada&layout=compact)](https://github.com/NijatTagizada/github-readme-stats)
