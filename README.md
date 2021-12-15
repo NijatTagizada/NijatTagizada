@@ -11,4 +11,9 @@
 <!-- ### Codewars -->
 <!-- <img src="https://www.codewars.com/users/Nijat%20Tagizada/badges/micro"/> -->
 
+
+## Working on
+[![kt_utils](https://github-readme-stats.vercel.app/api/pin/?username=NijatTagizada&repo=kt_utils)](https://github.com/NijatTagizada/kt_utils)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NijatTagizada&layout=compact)](https://github.com/NijatTagizada/NijatTagizada)
